@@ -1,0 +1,14 @@
+{
+  "na": "N/A",
+  "no": "No",
+  "yes": "Sí",
+  "cancel": "Cancella",
+  "confirm": "Conferma",
+  "close": "Chiudi",
+  "booleanTrueOptions": "vero,v,sí,si,s,attivo,abilitato",
+  "booleanFalseOptions": "falso,f,no,n,disattivo,disabilitato",
+  "user": "utente",
+  "channel": "canale",
+  "role": "ruolo",
+  "message": "messaggio"
+}
