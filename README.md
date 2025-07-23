@@ -13,10 +13,6 @@ Compared to other bots like Dyno, it uses more modern APIs like ephemeral messag
 - [x] Blocks AFK pings using AutoMod
 - [ ] Moderation features
 
-### Disclaimer - Google Calendar
-
-I'm still waiting on OAuth verification from Google, so you may get a "Google hasn't verified this app" warning before signing in. (+100 user max limit)
-
 ## Differences
 
 |                        | Pomelo | Dyno |
